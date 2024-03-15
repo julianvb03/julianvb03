@@ -38,7 +38,7 @@ Hello! I'm a junior Computer Science student at EAFIT University, currently imme
 <tr>
 <td colspan="2" align="center">
 
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julianvb03&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=4"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julianvb03&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=3"/>
 </td>
 </tr>
 </table>
