@@ -1,4 +1,6 @@
-###                                                                                                      Hi there 👋
+<p align="center">
+  <strong>Hi there 👋</strong>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/julian-valencia-a48379279" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="julian-valencia-linkedin"/></a>
