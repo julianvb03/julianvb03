@@ -1,26 +1,10 @@
 ### Hi there 👋
 
 <p align="left">
-<a href="www.linkedin.com/in/julian-valencia-a48379279" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:valenciajuliann@hotmail.com" target="blank"><img align="center" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" alt="@unsimpledev"  /></a>
-  </p>
+<a href="https://www.linkedin.com/in/julian-valencia-a48379279" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="julian-valencia-linkedin"/></a>
+<a href="mailto:valenciajuliann@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="valenciajuliann-email"/></a>
+</p>
 <br>
 <h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
-<!--
-**julianvb03/julianvb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
