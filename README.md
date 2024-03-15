@@ -13,8 +13,9 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Fortran](https://img.shields.io/badge/-Fortran-05122A?style=flat&logo=fortran&logoColor=734F96)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Make](https://img.shields.io/badge/-Make-05122A?style=flat&logo=gnu&logoColor=white)&nbsp; <!-- No hay un logo oficial de Make en shields.io, se usa GNU como una aproximación -->
 ![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake&logoColor=064F8C)&nbsp;
-![Fortran](https://img.shields.io/badge/-Fortran-05122A?style=flat&logo=fortran&logoColor=734F96)&nbsp;
+
 
