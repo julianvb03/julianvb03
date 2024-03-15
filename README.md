@@ -6,7 +6,8 @@
 <a href="mailto:valenciajuliann@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="valenciajuliann-email"/></a>
 </p>
 <br>
-<h2>About me 😃</h2>
+
+### About me 
 
 ### 🛠 &nbsp;My Favorite Tools
 
