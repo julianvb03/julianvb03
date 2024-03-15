@@ -8,6 +8,7 @@
 <br>
 
 ## About me 
+Hello! I'm a junior Computer Science student at EAFIT University, currently immersed and fascinated by the world of high-performance computing. 
 
 ### 🛠 &nbsp;My Favorite Tools
 
