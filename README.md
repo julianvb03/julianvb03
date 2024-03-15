@@ -32,7 +32,7 @@ Hello! I'm a junior Computer Science student at EAFIT University, currently imme
 </td>
 <td>
 
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=julianvb03&theme=dark&hide_border=false" /> 
 </td>
 </tr>
 <tr>
