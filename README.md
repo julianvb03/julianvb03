@@ -21,7 +21,7 @@ Hello! I'm a junior Computer Science student at EAFIT University, currently imme
 ![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake&logoColor=064F8C)&nbsp;
 
 
-<h2>GitHub Stats :octocat:</h2>
+<h3>GitHub Stats :octocat:</h3>
 <p align="center">
 
 <table>
