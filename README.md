@@ -19,6 +19,7 @@ Hello! I'm a junior Computer Science student at EAFIT University, currently imme
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Make](https://img.shields.io/badge/-Make-05122A?style=flat&logo=gnu&logoColor=white)&nbsp; <!-- No hay un logo oficial de Make en shields.io, se usa GNU como una aproximación -->
 ![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake&logoColor=064F8C)&nbsp;
+![C](https://img.shields.io/badge/-MPI-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
 <h3>💚 GitHub Stats</h3>
 <p align="center">
