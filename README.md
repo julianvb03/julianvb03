@@ -36,8 +36,11 @@ Hello! I'm a junior Computer Science student at EAFIT University, currently imme
 </tr>
 <tr>
 <td colspan="2" align="center">
-
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julianvb03&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=3"/>
+<!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=julianvb03&theme=dark&hide_border=false" />  -->
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+</p>
 </td>
 </tr>
 </table>
